@@ -12,6 +12,7 @@ An object-oriented banking system implemented in Java that models Savings, Check
 
 ## Tech Stack
 - Java
+- JUnit
 
 ## Running the Project
 
