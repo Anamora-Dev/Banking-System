@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CheckingsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-15T10:02:04" hostname="MISS-ANA-LAPTOP" time="0.003">
+  <properties/>
+  <testcase name="checkings_has_a_start_balance_of_0()" classname="CheckingsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

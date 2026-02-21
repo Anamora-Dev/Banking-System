@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AccountTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-02-15T10:02:03" hostname="MISS-ANA-LAPTOP" time="0.535">
+  <properties/>
+  <testcase name="withdraw_money_from_checkings()" classname="AccountTest" time="0.225"/>
+  <testcase name="checkings_has_apr_as_given()" classname="AccountTest" time="0.022"/>
+  <testcase name="checkings_has_an_id()" classname="AccountTest" time="0.017"/>
+  <testcase name="can_withdraw_twice_from_same_account()" classname="AccountTest" time="0.017"/>
+  <testcase name="deposit_money_into_checkings()" classname="AccountTest" time="0.009"/>
+  <testcase name="balance_cannot_be_negative()" classname="AccountTest" time="0.015"/>
+  <testcase name="can_deposit_twice_from_same_account()" classname="AccountTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

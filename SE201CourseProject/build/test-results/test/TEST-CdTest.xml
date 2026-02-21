@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CdTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-15T10:02:04" hostname="MISS-ANA-LAPTOP" time="0.002">
+  <properties/>
+  <testcase name="cd_has_a_specified_start_balance()" classname="CdTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DepositCommandValidatorTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2025-02-15T10:02:05" hostname="MISS-ANA-LAPTOP" time="0.311">
+  <properties/>
+  <testcase name="cant_deposit_into_cd_account()" classname="DepositCommandValidatorTest" time="0.005"/>
+  <testcase name="command_missing_id()" classname="DepositCommandValidatorTest" time="0.001"/>
+  <testcase name="command_missing_amount()" classname="DepositCommandValidatorTest" time="0.01"/>
+  <testcase name="does_account_exist()" classname="DepositCommandValidatorTest" time="0.001"/>
+  <testcase name="id_has_to_be_a_number()" classname="DepositCommandValidatorTest" time="0.001"/>
+  <testcase name="id_has_less_than_8_digits()" classname="DepositCommandValidatorTest" time="0.008"/>
+  <testcase name="amount_cant_be_negative()" classname="DepositCommandValidatorTest" time="0.001"/>
+  <testcase name="amount_can_be_zero()" classname="DepositCommandValidatorTest" time="0.008"/>
+  <testcase name="id_has_more_than_8_digits()" classname="DepositCommandValidatorTest" time="0.009"/>
+  <testcase name="valid_deposit_command()" classname="DepositCommandValidatorTest" time="0.005"/>
+  <testcase name="misspell_deposit()" classname="DepositCommandValidatorTest" time="0.003"/>
+  <testcase name="cant_deposit_more_than_1000_into_checking()" classname="DepositCommandValidatorTest" time="0.041"/>
+  <testcase name="command_with_no_parameters()" classname="DepositCommandValidatorTest" time="0.005"/>
+  <testcase name="cant_deposit_more_than_2500_into_savings()" classname="DepositCommandValidatorTest" time="0.008"/>
+  <testcase name="can_deposit_1000_into_checking()" classname="DepositCommandValidatorTest" time="0.003"/>
+  <testcase name="can_deposit_2500_into_savings()" classname="DepositCommandValidatorTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

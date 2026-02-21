@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CreateCommandValidatorTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2025-02-15T10:02:04" hostname="MISS-ANA-LAPTOP" time="0.953">
+  <properties/>
+  <testcase name="command_without_any_parameters()" classname="CreateCommandValidatorTest" time="0.014"/>
+  <testcase name="misspell_create_command()" classname="CreateCommandValidatorTest" time="0.004"/>
+  <testcase name="cd_account_needs_a_specified_balance()" classname="CreateCommandValidatorTest" time="0.007"/>
+  <testcase name="invalid_account_type()" classname="CreateCommandValidatorTest" time="0.01"/>
+  <testcase name="cant_create_a_cd_account_with_an_amount_over_10000()" classname="CreateCommandValidatorTest" time="0.01"/>
+  <testcase name="id_cant_have_less_than_8_digits()" classname="CreateCommandValidatorTest" time="0.035"/>
+  <testcase name="cant_create_a_cd_account_with_an_amount_less_than_1000()" classname="CreateCommandValidatorTest" time="0.008"/>
+  <testcase name="apr_has_to_be_a_number()" classname="CreateCommandValidatorTest" time="0.004"/>
+  <testcase name="can_create_cd_account_with_a_balance_of_10000()" classname="CreateCommandValidatorTest" time="0.005"/>
+  <testcase name="id_has_to_be_a_number()" classname="CreateCommandValidatorTest" time="0.002"/>
+  <testcase name="can_create_cd_account_with_a_balance_of_1000()" classname="CreateCommandValidatorTest" time="0.006"/>
+  <testcase name="cant_create_a_savings_account_with_a_specified_balance()" classname="CreateCommandValidatorTest" time="0.009"/>
+  <testcase name="id_cant_have_more_than_8_digits()" classname="CreateCommandValidatorTest" time="0.005"/>
+  <testcase name="apr_cant_be_negative()" classname="CreateCommandValidatorTest" time="0.001"/>
+  <testcase name="command_without_an_id()" classname="CreateCommandValidatorTest" time="0.008"/>
+  <testcase name="apr_cant_be_more_than_10()" classname="CreateCommandValidatorTest" time="0.005"/>
+  <testcase name="command_without_an_apr()" classname="CreateCommandValidatorTest" time="0.004"/>
+  <testcase name="command_with_parameters_out_of_order()" classname="CreateCommandValidatorTest" time="0.024"/>
+  <testcase name="cant_create_cd_account_with_a_negative_amount()" classname="CreateCommandValidatorTest" time="0.007"/>
+  <testcase name="apr_can_be_ten()" classname="CreateCommandValidatorTest" time="0.007"/>
+  <testcase name="valid_create_checking_account_command()" classname="CreateCommandValidatorTest" time="0.029"/>
+  <testcase name="two_accounts_cant_have_the_same_id()" classname="CreateCommandValidatorTest" time="0.005"/>
+  <testcase name="valid_create_savings_account_command()" classname="CreateCommandValidatorTest" time="0.002"/>
+  <testcase name="apr_can_be_zero()" classname="CreateCommandValidatorTest" time="0.006"/>
+  <testcase name="misspell_account_type()" classname="CreateCommandValidatorTest" time="0.007"/>
+  <testcase name="valid_create_cd_account_command()" classname="CreateCommandValidatorTest" time="0.007"/>
+  <testcase name="cant_create_a_checking_account_with_a_specified_balance()" classname="CreateCommandValidatorTest" time="0.009"/>
+  <testcase name="command_without_account_type()" classname="CreateCommandValidatorTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

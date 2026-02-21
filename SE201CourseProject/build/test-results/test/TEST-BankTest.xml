@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BankTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-02-15T10:02:03" hostname="MISS-ANA-LAPTOP" time="0.361">
+  <properties/>
+  <testcase name="add_cd_account()" classname="BankTest" time="0.01"/>
+  <testcase name="two_deposits_from_account()" classname="BankTest" time="0.04"/>
+  <testcase name="deposit_money_into_account()" classname="BankTest" time="0.026"/>
+  <testcase name="add_savings_account()" classname="BankTest" time="0.005"/>
+  <testcase name="add_checkings_account()" classname="BankTest" time="0.003"/>
+  <testcase name="bank_starts_with_no_accounts()" classname="BankTest" time="0.012"/>
+  <testcase name="withdraw_money_from_account()" classname="BankTest" time="0.006"/>
+  <testcase name="two_withdrawals_from_account()" classname="BankTest" time="0.006"/>
+  <testcase name="add_two_accounts_to_bank()" classname="BankTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
