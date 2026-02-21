@@ -17,4 +17,4 @@ An object-oriented banking system built in Java that supports account creation a
    ```bash
    git clone https://github.com/Anamora-Dev/Banking-System.git
 2. Open project in IntelliJ
-3. Navigate into SE201CourseProject and run Main.java
+3. Run tests or create own Main.java
