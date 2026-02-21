@@ -1,20 +1,28 @@
 # Banking System (Java)
 
 ## Overview
-An object-oriented banking system built in Java that supports account creation and time-based updates (interest/dividends). Designed to practice OOP principles and data integrity through input validation.
+An object-oriented banking system implemented in Java that models Savings, Checking, and CD accounts. The system focuses on business logic, validation, and time-based account updates.
 
 ## Features
-- Create account types: Savings, Checking, and CD
-- Simulate passage of time to apply interest/dividends
-- Input validation and exception handling to prevent invalid transactions
-- OOP design (inheritance, encapsulation, polymorphism)
+- Support for Savings, Checking, and CD accounts
+- Time simulation for interest accrual and account growth
+- Input validation and exception handling to preserve data integrity
+- Object-oriented design using inheritance and encapsulation
+- Fully tested using unit tests (no UI driver included)
 
 ## Tech Stack
 - Java
 
-## How to Run
-1. Clone the repo:
+## Running the Project
+
+This project is test-driven and does not include a standalone UI driver.
+
+To run:
+1. Clone the repository
    ```bash
    git clone https://github.com/Anamora-Dev/Banking-System.git
-2. Open project in IntelliJ
-3. Run tests or create own Main.java
+3. Open in IntelliJ
+4. Navigate to the test folder
+5. Run the test suite to validate functionality
+
+You may also create your own `Main.java` file to manually test account behavior if desired.
